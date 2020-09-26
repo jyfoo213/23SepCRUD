@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "first_name": "Ah Kow",
+        "last_name": "Tan",
+        "email": "tanahkow@gmail.com",
+        "send_marketing_material": true
+    },
+    {
+        "id": 2,
+        "first_name": "Mary",
+        "last_name": "Sue",
+        "email": "marysue@gmail.com",
+        "send_marketing_material": true
+    },
+    {
+        "id": 3,
+        "first_name": "Thomas",
+        "last_name": "Tan",
+        "email": "thomastan@gmail.com",
+        "send_marketing_material": true
+    }
+
+]
